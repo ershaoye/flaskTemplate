@@ -1,0 +1,10 @@
+venv
+__pycache__
+.idea
+.DS_Store
+.git
+tmp.txt
+local_requirements.txt
+data.sqlite
+data_production.sqlite
+sql
